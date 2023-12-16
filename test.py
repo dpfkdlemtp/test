@@ -5,4 +5,5 @@ def sub(a,b):
 	return a-b;
 
 def mul(A,b):
-	return A*b;	
+	return A*b; # 주석
+	
